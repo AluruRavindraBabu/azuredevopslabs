@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/alururavindrababu0427/2d8eb766-d931-4cf6-94c9-43872ca525a5/12707296-e4cb-49b1-9ccd-a567454b7c90/_apis/work/boardbadge/7a3b89a6-0a9a-451a-b488-923b0f6788f9)](https://dev.azure.com/alururavindrababu0427/2d8eb766-d931-4cf6-94c9-43872ca525a5/_boards/board/t/12707296-e4cb-49b1-9ccd-a567454b7c90/Microsoft.RequirementCategory)
 ---
 layout: homepage
 title: Azure DevOps Hands-On Labs
